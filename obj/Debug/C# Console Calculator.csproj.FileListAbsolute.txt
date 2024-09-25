@@ -1,0 +1,7 @@
+C:\Users\MAK_HAN\source\repos\C# Console Calculator\bin\Debug\C# Console Calculator.exe.config
+C:\Users\MAK_HAN\source\repos\C# Console Calculator\bin\Debug\C# Console Calculator.exe
+C:\Users\MAK_HAN\source\repos\C# Console Calculator\bin\Debug\C# Console Calculator.pdb
+C:\Users\MAK_HAN\source\repos\C# Console Calculator\obj\Debug\C# Console Calculator.csproj.AssemblyReference.cache
+C:\Users\MAK_HAN\source\repos\C# Console Calculator\obj\Debug\C# Console Calculator.csproj.CoreCompileInputs.cache
+C:\Users\MAK_HAN\source\repos\C# Console Calculator\obj\Debug\C# Console Calculator.exe
+C:\Users\MAK_HAN\source\repos\C# Console Calculator\obj\Debug\C# Console Calculator.pdb
